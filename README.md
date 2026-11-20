@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Siya210511/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/Siya210511/LeetCode/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
