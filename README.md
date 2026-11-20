@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Siya210511/LeetCode/tree/master/0001-two-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Siya210511/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Siya210511/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Hash Table
 |  |
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Siya210511/LeetCode/tree/master/0002-add-two-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Siya210511/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+## Sorting
+|  |
+| ------- |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Siya210511/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 <!---LeetCode Topics End-->
