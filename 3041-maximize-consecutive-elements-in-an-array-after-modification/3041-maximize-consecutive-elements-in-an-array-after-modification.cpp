@@ -13,3 +13,4 @@ public:
     return ans;  
     }
 };
+//https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/solutions/8618544/269ms-beats-5146-easy-approach-and-step-3kdp9
